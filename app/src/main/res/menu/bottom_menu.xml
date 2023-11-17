@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="homeFragment"
+    android:icon="@drawable/ic_home"
+    android:title="Home"
+    app:showAsAction="always"/>
+    <item android:id="homeFragment"
+        android:icon="@drawable/ic_face"
+        android:title="Welcome"
+        app:showAsAction="always"/>
+    <item android:id="welcomeFragment"
+        android:icon="@drawable/ic_guide"
+        android:title="Guide"
+        app:showAsAction="always"/>
+    <item android:id="homeFragment"
+        android:icon="@drawable/ic_draw"
+        android:title="Draw"
+        app:showAsAction="always"/>
+</menu>
